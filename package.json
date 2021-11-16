@@ -1,5 +1,5 @@
 {
-    "name": "apidoc-swagger-3",
+    "name": "apidoc2swagger",
     "version": "1.0.5",
     "description": "Convert api doc json to swagger3 json",
     "author": "amano hikaru",
